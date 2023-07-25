@@ -47,20 +47,56 @@ The reLU activation function was utilized, because it is ideal for modeling posi
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 50px">
 
-<br>
-
   <img
   src="/Pictures/m1.1.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 50px">
   
+<br>
 
 **Second attempt**: `AlphabetSoupCharity_Optimization_Model2.ipynb` file, 
 the neural network model utilizes 3 hidden layers with 129, 86 and 43 neurons with 150 training epochs. The reLU activation and sigmoid functions were utilized. 
 
+<br>
+
+  <img
+  src="/Pictures/m2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
+
+
+  <img
+  src="/Pictures/m2.1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
+
+
+
+
+
+<br>
+
 **Third attempt**: `AlphabetSoupCharity_Optimization_Model3.ipynb` file, 
 the neural network model utilizes 4 hidden layers with 172, 129, 86 and 43 neurons with 200 training epochs. The reLU activation and sigmoid functions were utilized as well.
+
+<br>
+ <img
+  src="/Pictures/m3.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
+ <img
+  src="/Pictures/m3.1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
+
+
+
+
 
 <br>
 
