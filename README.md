@@ -36,12 +36,14 @@ The dataset contains information on more than 34,000 organizations that have pre
 
   - _Model Structure_
 
-**First attempt**: the neural network model utilizes 2 hidden layers, because an ideal starting point for NNM’s is 2-4 layers. There are 43 features so 86 neurons, or 2-3 times the amount of input features were used for the first hidden node. The second hidden node used 43 neurons and 100 training epochs respectively. 
+**First attempt**: `Starter_Code_M1.ipynb` file,  the neural network model utilizes 2 hidden layers, because an ideal starting point for NNM’s is 2-4 layers. There are 43 features so 86 neurons, or 2-3 times the amount of input features were used for the first hidden node. The second hidden node used 43 neurons and 100 training epochs respectively. 
 The reLU activation function was utilized, because it is ideal for modeling positive, nonlinear input data for classification or regression. The sigmoid function was utilized, because its values are normalized to a probability between 0 and 1, which is ideal for a binary classification dataset.
 
-**Second attempt**: the neural network model utilizes 3 hidden layers with 129, 86 and 43 neurons with 150 training epochs. The reLU activation and sigmoid functions were utilized. 
+**Second attempt**: `AlphabetSoupCharity_Optimization_Model2.ipynb` file, 
+the neural network model utilizes 3 hidden layers with 129, 86 and 43 neurons with 150 training epochs. The reLU activation and sigmoid functions were utilized. 
 
-**Third attempt**: the neural network model utilizes 4 hidden layers with 172, 129, 86 and 43 neurons with 200 training epochs. The reLU activation and sigmoid functions were utilized as well.
+**Third attempt**: `AlphabetSoupCharity_Optimization_Model3.ipynb` file, 
+the neural network model utilizes 4 hidden layers with 172, 129, 86 and 43 neurons with 200 training epochs. The reLU activation and sigmoid functions were utilized as well.
 
 <br>
 
