@@ -71,7 +71,7 @@ the neural network model utilizes 3 hidden layers with 129, 86 and 43 neurons wi
   src="/Pictures/m2.1.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 40px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
 
 
