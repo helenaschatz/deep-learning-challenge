@@ -11,9 +11,9 @@ The dataset contains information on more than 34,000 organizations that have pre
 ## Results:
 ### Data Preprocessing
   
-  - Target Variable(s): The target variable for the model is the `"IS_SUCCESSFUL"` column, which indicates whether the funding was used effectively (1) or not (0).
+  - **_Target Variable(s):_** The target variable for the model is the `"IS_SUCCESSFUL"` column, which indicates whether the funding was used effectively (1) or not (0).
 
-  - Features Variable(s): The features for the model include the following columns:
+  - **_Features Variable(s):_** The features for the model include the following columns:
 
 `APPLICATION_TYPE`: Alphabet Soup application type; <br>
 `AFFILIATION`: Affiliated sector of industry; <br>
